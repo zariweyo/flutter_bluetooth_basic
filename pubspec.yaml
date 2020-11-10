@@ -1,6 +1,6 @@
 name: flutter_bluetooth_basic
 description: Flutter plugin that allows to find bluetooth devices & send raw bytes data
-version: 0.1.5
+version: 0.1.6
 homepage: https://github.com/andrey-ushakov/flutter_bluetooth_basic
 
 environment:
@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   json_annotation: ^3.0.1
-  rxdart: ^0.23.1
+  rxdart: ^0.24.0
 
 dev_dependencies:
   flutter_test:
